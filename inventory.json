@@ -1,6 +1,6 @@
 {
   "dealership": "Penticton Hyundai",
-  "generated_at": "2026-10-25T15:35:49",
+  "generated_at": "2026-10-26T00:52:42",
   "vehicle_count": 222,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -105,7 +105,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Mazda CX-5 GT",
+      "name": "2018 Mazda CX-5 GT| ALL-WHEEL DRIVE | LEATHER & SUNROOF | BOSE AUDIO |",
       "vin": "JM3KFBDM5J0354184",
       "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/f4cb14a1dd5b.html",
       "year": 2018,
@@ -160,7 +160,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Hyundai Kona Preferred",
+      "name": "2020 Hyundai Kona Preferred  | ALL-WHEEL DRIVE | HEATED SEATS & STEERING WHEEL |",
       "vin": "KM8K2CAA5LU582214",
       "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/32a984223aad.html",
       "year": 2020,
@@ -178,7 +178,7 @@
       "make": "Jeep",
       "model": "Wrangler",
       "condition": "used",
-      "price": 29495.0,
+      "price": 28995.0,
       "price_currency": "CAD"
     },
     {
@@ -193,7 +193,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 RAM 1500 Classic Quad Cab Express",
+      "name": "2020 RAM 1500 Classic Quad Cab Express | 5.7L HEMI V8 | 4X4 | QUAD CAB |",
       "vin": "1C6RR7FG9LS112970",
       "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/dc1c773461c8.html",
       "year": 2020,
@@ -292,14 +292,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Toyota Tacoma ",
+      "name": "2021 Toyota Tacoma TRD PREMIUM | TRD LIFT | TRD EXHAUST | SUNROOF|",
       "vin": "5TFDZ5BN0MX064663",
       "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/b6b4bdc95eb6.html",
       "year": 2021,
       "make": "Toyota",
       "model": "Tacoma",
       "condition": "used",
-      "price": 51995.0,
+      "price": 49995.0,
       "price_currency": "CAD"
     },
     {
@@ -347,7 +347,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Hyundai Kona Preferred",
+      "name": "2022 Hyundai Kona Preferred | LOW KILOMETERS | ALL-WHEEL DRIVE | HEATED SEATS |",
       "vin": "KM8K2CAB8NU915114",
       "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/16622c7bc847.html",
       "year": 2022,
@@ -358,14 +358,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Hyundai Santa Fe Preferred",
+      "name": "2022 Hyundai Santa Fe Preferred | ALL-WHEEL DRIVE | HEATED SEATS & STEERING WHEEL |",
       "vin": "5NMS3DAJ9NH451627",
       "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/8f0611570aaa.html",
       "year": 2022,
       "make": "Hyundai",
       "model": "Santa Fe",
       "condition": "used",
-      "price": 27995.0,
+      "price": 27895.0,
       "price_currency": "CAD"
     },
     {
@@ -409,7 +409,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 49995.0,
+      "price": 49495.0,
       "price_currency": "CAD"
     },
     {
@@ -486,7 +486,7 @@
       "make": "Toyota",
       "model": "Highlander",
       "condition": "used",
-      "price": 43995.0,
+      "price": 43895.0,
       "price_currency": "CAD"
     },
     {
@@ -497,7 +497,7 @@
       "make": "Toyota",
       "model": "Tundra",
       "condition": "used",
-      "price": 51995.0,
+      "price": 51495.0,
       "price_currency": "CAD"
     },
     {
