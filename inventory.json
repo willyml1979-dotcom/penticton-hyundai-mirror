@@ -1,6 +1,6 @@
 {
   "dealership": "Penticton Hyundai",
-  "generated_at": "2026-10-26T01:04:52",
+  "generated_at": "2026-10-26T09:20:10",
   "vehicle_count": 222,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -270,7 +270,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Tesla Model Y Long Range",
+      "name": "2021 Tesla Model Y Long Range  DUAL MOTOR ALL-WHEEL DRIVE | GLASS PANORAMIC ROOF |",
       "vin": "5YJYGDEE8MF087535",
       "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/4769a866a1a5.html",
       "year": 2021,
@@ -574,7 +574,7 @@
       "make": "RAM",
       "model": "1500",
       "condition": "used",
-      "price": 49995.0,
+      "price": 49895.0,
       "price_currency": "CAD"
     },
     {
@@ -589,7 +589,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Toyota RAV4 Hybrid Hybrid Limited",
+      "name": "2024 Toyota RAV4 Hybrid HYBRID LIMITED | HEATED AND VENITLATED SEATS |  HEATED STEERING WHEEL",
       "vin": "2T3DWRFV9RW210466",
       "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/6357f8da356d.html",
       "year": 2024,
