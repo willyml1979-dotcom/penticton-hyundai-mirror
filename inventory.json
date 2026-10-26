@@ -1,6 +1,6 @@
 {
   "dealership": "Penticton Hyundai",
-  "generated_at": "2026-10-26T09:20:10",
+  "generated_at": "2026-10-26T09:32:31",
   "vehicle_count": 222,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -1014,7 +1014,7 @@
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "new",
-      "price": 29099.0,
+      "price": 29249.0,
       "price_currency": "CAD"
     },
     {
@@ -1025,7 +1025,7 @@
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "new",
-      "price": 29349.0,
+      "price": 29499.0,
       "price_currency": "CAD"
     },
     {
@@ -1036,7 +1036,7 @@
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "new",
-      "price": 27499.0,
+      "price": 27649.0,
       "price_currency": "CAD"
     },
     {
@@ -1047,7 +1047,7 @@
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "new",
-      "price": 27499.0,
+      "price": 27299.0,
       "price_currency": "CAD"
     },
     {
@@ -1058,7 +1058,7 @@
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "new",
-      "price": 27149.0,
+      "price": 27299.0,
       "price_currency": "CAD"
     },
     {
@@ -1069,7 +1069,7 @@
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "new",
-      "price": 29699.0,
+      "price": 29849.0,
       "price_currency": "CAD"
     },
     {
@@ -1080,7 +1080,7 @@
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "new",
-      "price": 25349.0,
+      "price": 25499.0,
       "price_currency": "CAD"
     },
     {
@@ -1091,7 +1091,7 @@
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "new",
-      "price": 29699.0,
+      "price": 29849.0,
       "price_currency": "CAD"
     },
     {
@@ -1113,7 +1113,7 @@
       "make": "Hyundai",
       "model": "IONIQ 9",
       "condition": "new",
-      "price": 79999.0,
+      "price": 80149.0,
       "price_currency": "CAD"
     },
     {
@@ -1124,7 +1124,7 @@
       "make": "Hyundai",
       "model": "Kona Electric",
       "condition": "new",
-      "price": 47149.0,
+      "price": 40649.0,
       "price_currency": "CAD"
     },
     {
@@ -1135,7 +1135,7 @@
       "make": "Hyundai",
       "model": "Kona Electric",
       "condition": "new",
-      "price": 50199.0,
+      "price": 43699.0,
       "price_currency": "CAD"
     },
     {
@@ -1146,7 +1146,7 @@
       "make": "Hyundai",
       "model": "Kona Electric",
       "condition": "new",
-      "price": 46899.0,
+      "price": 40399.0,
       "price_currency": "CAD"
     },
     {
@@ -1157,7 +1157,7 @@
       "make": "Hyundai",
       "model": "Kona Electric",
       "condition": "new",
-      "price": 45299.0,
+      "price": 38799.0,
       "price_currency": "CAD"
     },
     {
@@ -1740,7 +1740,7 @@
       "make": "Hyundai",
       "model": "Tucson Hybrid",
       "condition": "new",
-      "price": 45799.0,
+      "price": 45949.0,
       "price_currency": "CAD"
     },
     {
