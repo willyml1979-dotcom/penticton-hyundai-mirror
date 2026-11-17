@@ -1,7 +1,7 @@
 {
   "dealership": "Penticton Hyundai",
-  "generated_at": "2026-11-17T11:32:03",
-  "vehicle_count": 206,
+  "generated_at": "2026-11-17T12:02:53",
+  "vehicle_count": 212,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -501,17 +501,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Hyundai Kona Electric Preferred w/Trend Package",
-      "vin": "KM8HD3A64SU020660",
-      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/new/08419e6f03a6.html",
-      "year": 2025,
-      "make": "Hyundai",
-      "model": "Kona Electric",
-      "condition": "new",
-      "price": 44995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Hyundai Kona Electric Preferred | REMOTE ENGINE START",
       "vin": "KM8HC3A65SU031007",
       "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/new/a1b3d687d0fb.html",
@@ -545,14 +534,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Hyundai Tucson Hybrid N-Line | PANORAMIC ROOF | LEATHER SEATS |",
-      "vin": "KM8JCDD12SU362120",
-      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/new/53a43a063271.html",
+      "name": "2025 Hyundai Tucson Preferred w/Trend Pkg  | LEATHER SEATS | SUNROOF |",
+      "vin": "KM8JCCDE4SU427577",
+      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/new/b3624dafb282.html",
       "year": 2025,
       "make": "Hyundai",
-      "model": "Tucson Hybrid",
+      "model": "Tucson",
       "condition": "new",
-      "price": 46999.0,
+      "price": 34995.0,
       "price_currency": "CAD"
     },
     {
@@ -787,6 +776,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Hyundai Elantra Hybrid Luxury",
+      "vin": "KMHLN4DJ4TU227550",
+      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/new/9c477e39c0e4.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Elantra Hybrid",
+      "condition": "new",
+      "price": 33999.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Hyundai Elantra Preferred | POWER DOOR LOCKS | HEATED FRONT SEAT |",
       "vin": "KMHLM4DG6TU184207",
       "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/new/60aecdd2361a.html",
@@ -919,14 +919,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai IONIQ 5 Preferred AWD Long Range | NAVIGATION SYSTEM | HEATED FRONT SEATS |",
-      "vin": "KM8KNDDCXTU408133",
-      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/new/b53299571a8b.html",
+      "name": "2026 Hyundai Elantra Preferred",
+      "vin": "KMHLM4DG1TU306357",
+      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/new/7107ca11acdc.html",
       "year": 2026,
       "make": "Hyundai",
-      "model": "IONIQ 5",
+      "model": "Elantra",
       "condition": "new",
-      "price": 54899.0,
+      "price": 29849.0,
       "price_currency": "CAD"
     },
     {
@@ -992,7 +992,7 @@
       "make": "Hyundai",
       "model": "Kona Electric",
       "condition": "new",
-      "price": 47399.0,
+      "price": 40899.0,
       "price_currency": "CAD"
     },
     {
@@ -1003,18 +1003,7 @@
       "make": "Hyundai",
       "model": "Kona Electric",
       "condition": "new",
-      "price": 50999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Kona Electric Preferred",
-      "vin": "KM8HE3A60TU047692",
-      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/new/398c8bd5d982.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Kona Electric",
-      "condition": "new",
-      "price": 50449.0,
+      "price": 44499.0,
       "price_currency": "CAD"
     },
     {
@@ -1051,17 +1040,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Kona N Line | LEATHER STEERING WHEEL | SUNROOF |",
-      "vin": "KM8HACA34TU471619",
-      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/new/d281177e0281.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Kona",
-      "condition": "new",
-      "price": 38099.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Hyundai Kona N Line Ultimate | SUNROOF | LEATHER SEATS |",
       "vin": "KM8HECA39TU471989",
       "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/new/8b5cfbe22ba7.html",
@@ -1080,7 +1058,7 @@
       "make": "Hyundai",
       "model": "Palisade Hybrid",
       "condition": "new",
-      "price": 63299.0,
+      "price": 63449.0,
       "price_currency": "CAD"
     },
     {
@@ -1091,7 +1069,7 @@
       "make": "Hyundai",
       "model": "Palisade",
       "condition": "new",
-      "price": 60099.0,
+      "price": 60249.0,
       "price_currency": "CAD"
     },
     {
@@ -1102,7 +1080,7 @@
       "make": "Hyundai",
       "model": "Palisade",
       "condition": "new",
-      "price": 55999.0,
+      "price": 56149.0,
       "price_currency": "CAD"
     },
     {
@@ -1113,7 +1091,7 @@
       "make": "Hyundai",
       "model": "Palisade",
       "condition": "new",
-      "price": 64799.0,
+      "price": 64949.0,
       "price_currency": "CAD"
     },
     {
@@ -1124,7 +1102,7 @@
       "make": "Hyundai",
       "model": "Palisade",
       "condition": "new",
-      "price": 64799.0,
+      "price": 64949.0,
       "price_currency": "CAD"
     },
     {
@@ -1146,7 +1124,7 @@
       "make": "Hyundai",
       "model": "Palisade",
       "condition": "new",
-      "price": 64799.0,
+      "price": 64949.0,
       "price_currency": "CAD"
     },
     {
@@ -1337,17 +1315,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Tucson Hybrid Ultimate | COOLED FRONT SEATS|SUNROOF |",
-      "vin": "KM8JCDD14TU422318",
-      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/new/405bea142eef.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson Hybrid",
-      "condition": "new",
-      "price": 50049.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Hyundai Tucson Hybrid Ultimate | PANORAMIC ROOF | LEATHER SEATS |",
       "vin": "KM8JCDD11TU427976",
       "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/new/1b9a37021093.html",
@@ -1362,17 +1329,6 @@
       "name": "2026 Hyundai Tucson Hybrid Ultimate | SUNROOF | LEATHER SEATS |",
       "vin": "KM8JCDD12TU437240",
       "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/new/ab94faf44edb.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson Hybrid",
-      "condition": "new",
-      "price": 50049.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Tucson Hybrid Ultimate | SUNROOF | LEATHER SEATS |",
-      "vin": "KM8JCDD10TU439066",
-      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/new/eedd84979551.html",
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
@@ -1403,31 +1359,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Tucson Hybrid Ultimate | PANORAMIC ROOF | LEATHER SEATS |",
-      "vin": "KM8JCDD10TU452626",
-      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/new/18aaa70d6f83.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson Hybrid",
-      "condition": "new",
-      "price": 50049.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Hyundai Tucson Hybrid N-Line | PANORAMIC ROOF | LEATHER SEATS |",
       "vin": "KM8JCDD19TU474592",
       "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/new/3b0a3e94caf3.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson Hybrid",
-      "condition": "new",
-      "price": 46049.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Tucson Hybrid N-Line | LEATHER SEATS | SUNROOF |",
-      "vin": "KM8JCDD13TU476466",
-      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/new/5e83a6bd04a3.html",
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
@@ -1557,14 +1491,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Tucson Hybrid N-Line | PANORAMIC ROOF | LEATHER SEATS |",
-      "vin": "KM8JCDD16TU437855",
-      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/new/66df9f6ec1ce.html",
+      "name": "2026 Hyundai Tucson Plug-In Hybrid Ultimate",
+      "vin": "KM8JDDD22TU547467",
+      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/new/b30e868ca4b1.html",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid",
+      "model": "Tucson Plug-In Hybrid",
       "condition": "new",
-      "price": 45949.0,
+      "price": 55599.0,
       "price_currency": "CAD"
     },
     {
@@ -1587,17 +1521,6 @@
       "model": "Tucson",
       "condition": "new",
       "price": 37349.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Tucson Preferred AWD w/Trend Pkg  | LEATHER SEATS | SUNROOF",
-      "vin": "3KMJCCDEXTE036242",
-      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/new/9599bd23bf21.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson",
-      "condition": "new",
-      "price": 41049.0,
       "price_currency": "CAD"
     },
     {
@@ -1653,28 +1576,6 @@
       "model": "Tucson",
       "condition": "new",
       "price": 37349.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Tucson Preferred",
-      "vin": "KM8JCCDE7TU490352",
-      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/new/a28a322222ad.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson",
-      "condition": "new",
-      "price": 41349.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Tucson Preferred",
-      "vin": "KM8JCCDE5TU491788",
-      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/new/f33f3d949a1c.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson",
-      "condition": "new",
-      "price": 41699.0,
       "price_currency": "CAD"
     },
     {
@@ -1799,6 +1700,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Hyundai Tucson Preferred",
+      "vin": "KM8JCCDE4TU503705",
+      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/new/b97c7e702aa3.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "condition": "new",
+      "price": 41849.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Tucson Preferred",
+      "vin": "KM8JCCDE8TU504968",
+      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/new/09811b1a32d9.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "condition": "new",
+      "price": 41849.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Hyundai Venue Preferred",
       "vin": "KMHRC8A34TU486200",
       "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/new/bdd0775d8bc0.html",
@@ -1818,17 +1741,6 @@
       "model": "Venue",
       "condition": "new",
       "price": 27049.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Venue Preferred",
-      "vin": "KMHRC8A36TU497294",
-      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/new/7ea810229840.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Venue",
-      "condition": "new",
-      "price": 26599.0,
       "price_currency": "CAD"
     },
     {
@@ -1877,6 +1789,17 @@
     },
     {
       "name": "2026 Hyundai Venue Essential",
+      "vin": "KMHRB8A38TU505043",
+      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/new/aa793f85b96e.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Venue",
+      "condition": "new",
+      "price": 24649.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Venue Essential",
       "vin": "KMHRB8A32TU504289",
       "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/new/e0f6e31db7f5.html",
       "year": 2026,
@@ -1888,13 +1811,57 @@
     },
     {
       "name": "2027 Hyundai IONIQ 5 Preferred",
-      "vin": "KM8KNDDC3VU425892",
-      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/new/e484f7079fcc.html",
+      "vin": "KM8KNDDC1VU429097",
+      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/new/8985d52df558.html",
       "year": 2027,
       "make": "Hyundai",
       "model": "IONIQ 5",
       "condition": "new",
       "price": 60249.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai IONIQ 5 Preferred",
+      "vin": "KM8KNDDCXVU427929",
+      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/new/7db4f0bf1be0.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "IONIQ 5",
+      "condition": "new",
+      "price": 60249.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai IONIQ 5 Preferred",
+      "vin": "KM8KNDDC2VU432235",
+      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/new/8e0858b7dd02.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "IONIQ 5",
+      "condition": "new",
+      "price": 60249.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai IONIQ 5 Preferred",
+      "vin": "KM8KNDDC1VU432064",
+      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/new/ee1527058bfc.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "IONIQ 5",
+      "condition": "new",
+      "price": 60249.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai IONIQ 5 Ultimate",
+      "vin": "KM8KRDDCXVU432035",
+      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/new/56fbe1b9575b.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "IONIQ 5",
+      "condition": "new",
+      "price": 66249.0,
       "price_currency": "CAD"
     },
     {
@@ -1972,6 +1939,61 @@
       "model": "Kona Electric",
       "condition": "new",
       "price": 46649.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Kona Electric Preferred",
+      "vin": "KM8HE3A67VU051290",
+      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/new/46c0357b7098.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona Electric",
+      "condition": "new",
+      "price": 51449.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Kona Electric Preferred",
+      "vin": "KM8HE3A69VU051386",
+      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/new/d6bab15032b9.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona Electric",
+      "condition": "new",
+      "price": 51099.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Kona Electric Preferred",
+      "vin": "KM8HD3A64VU050617",
+      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/new/5ae6750664e0.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona Electric",
+      "condition": "new",
+      "price": 48899.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Kona Electric Preferred",
+      "vin": "KM8HD3A63VU050902",
+      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/new/b57ed5346110.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona Electric",
+      "condition": "new",
+      "price": 48899.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Kona Electric Preferred",
+      "vin": "KM8HE3A68VU051122",
+      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/new/14ad54afb0bb.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona Electric",
+      "condition": "new",
+      "price": 51449.0,
       "price_currency": "CAD"
     },
     {
@@ -2107,14 +2129,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Hyundai Palisade Hybrid Ultimate Calligraphy",
-      "vin": "KM8RMESA1VU135823",
-      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/new/aea531456bba.html",
+      "name": "2027 Hyundai Kona N Line Ultimate",
+      "vin": "KM8HECA36VU541399",
+      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/new/ea12617b8557.html",
       "year": 2027,
       "make": "Hyundai",
-      "model": "Palisade Hybrid",
+      "model": "Kona",
       "condition": "new",
-      "price": 69099.0,
+      "price": 42749.0,
       "price_currency": "CAD"
     },
     {
@@ -2132,17 +2154,6 @@
       "name": "2027 Hyundai Palisade Hybrid Ultimate Calligraphy",
       "vin": "KM8RMESA7VU148835",
       "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/new/26b979f53d46.html",
-      "year": 2027,
-      "make": "Hyundai",
-      "model": "Palisade Hybrid",
-      "condition": "new",
-      "price": 69449.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Hyundai Palisade Hybrid Ultimate Calligraphy",
-      "vin": "KM8RMESA8VU147614",
-      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/new/dc917366d8ff.html",
       "year": 2027,
       "make": "Hyundai",
       "model": "Palisade Hybrid",
@@ -2181,6 +2192,17 @@
       "model": "Palisade Hybrid",
       "condition": "new",
       "price": 65199.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Palisade Hybrid Ultimate Calligraphy Night",
+      "vin": "KM8RMESA5VU159543",
+      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/new/cb7e74f4e389.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Palisade Hybrid",
+      "condition": "new",
+      "price": 71449.0,
       "price_currency": "CAD"
     },
     {
@@ -2258,6 +2280,50 @@
       "model": "Santa Fe Hybrid",
       "condition": "new",
       "price": 48349.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Santa Fe Hybrid Ultimate Calligraphy",
+      "vin": "KM8P5DG14VU227452",
+      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/new/923bbc27ad14.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "price": 60099.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Santa Fe Hybrid Ultimate Calligraphy",
+      "vin": "KM8P5DG1XVU227858",
+      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/new/fe76fae96777.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "price": 60099.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Santa Fe Hybrid Preferred",
+      "vin": "KM8P3DG14VU227960",
+      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/new/06bff5e982d9.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "price": 52349.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Santa Fe Hybrid Ultimate Calligraphy",
+      "vin": "KM8P5DG14VU229508",
+      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/new/8da74b31b818.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "price": 60099.0,
       "price_currency": "CAD"
     },
     {
