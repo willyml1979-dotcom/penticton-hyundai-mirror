@@ -1,7 +1,7 @@
 {
   "dealership": "Penticton Hyundai",
-  "generated_at": "2026-10-26T09:32:31",
-  "vehicle_count": 222,
+  "generated_at": "2026-11-17T11:32:03",
+  "vehicle_count": 206,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -14,72 +14,6 @@
       "model": "9-3",
       "condition": "used",
       "price": 12995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2012 Honda Civic Sedan EX-L  FWD | LEATHER SEATING | POWER MOONROOF | HEATED SEATS |",
-      "vin": "2HGFB2F92CH108675",
-      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/aa1fa4f96240.html",
-      "year": 2012,
-      "make": "Honda",
-      "model": "Civic",
-      "condition": "used",
-      "price": 10595.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2014 Ford Taurus SEL| 3.5L V6 | LOW KILOMETERS | ALL-WHEEL DRIVE |",
-      "vin": "1FAHP2H84EG158639",
-      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/70596857ba90.html",
-      "year": 2014,
-      "make": "Ford",
-      "model": "Taurus SEL",
-      "condition": "used",
-      "price": 10595.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2014 Hyundai Tucson GLS  AWD | HEATED FRONT & REAR SEATS | PANORAMIC SUNROOF |",
-      "vin": "KM8JUCAG3EU925373",
-      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/2d44c865aaf9.html",
-      "year": 2014,
-      "make": "Hyundai",
-      "model": "Tucson",
-      "condition": "used",
-      "price": 10995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2016 Hyundai Tucson Limited | BC VEHICLE | SUNROOF |",
-      "vin": "KM8J3CA2XGU244959",
-      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/e76ba66f516c.html",
-      "year": 2016,
-      "make": "Hyundai",
-      "model": "Tucson",
-      "condition": "used",
-      "price": 14995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Hyundai Tucson SE | ALL-WHEEL DRIVE | HEATED SEATS | REARVIEW CAMERA |",
-      "vin": "KM8J3CA43HU512043",
-      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/80304e77762a.html",
-      "year": 2017,
-      "make": "Hyundai",
-      "model": "Tucson",
-      "condition": "used",
-      "price": 14695.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Mercedes-Benz B-Class B 250 Sports Tourer | BC VEHICLE | SUNROOF |",
-      "vin": "WDDMH4EB8HJ421889",
-      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/6114e8887c03.html",
-      "year": 2017,
-      "make": "Mercedes-Benz",
-      "model": "B-Class B 250 Sports Tourer",
-      "condition": "used",
-      "price": 15495.0,
       "price_currency": "CAD"
     },
     {
@@ -105,17 +39,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Mazda CX-5 GT| ALL-WHEEL DRIVE | LEATHER & SUNROOF | BOSE AUDIO |",
-      "vin": "JM3KFBDM5J0354184",
-      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/f4cb14a1dd5b.html",
-      "year": 2018,
-      "make": "Mazda",
-      "model": "CX-5",
-      "condition": "used",
-      "price": 25995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2018 Porsche Macan GTS GTS  | WINTER TIRES ON PORSCHE RIMS INCLUDED | PDK | SPORT EXHAUST",
       "vin": "WP1AG2A59JLB64836",
       "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/975afc4af640.html",
@@ -127,14 +50,25 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2018 Toyota Corolla LE | HEATED SEATS | BACK UP CAMERA | BLUETOOTH |",
+      "vin": "2T1BURHE8JC058723",
+      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/13009c98e3c4.html",
+      "year": 2018,
+      "make": "Toyota",
+      "model": "Corolla",
+      "condition": "used",
+      "price": 14995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2019 Ford Explorer Limited | 4WD | LEATHER SEATING | PANORAMIC VISTA ROOF |",
       "vin": "1FM5K8F84KGA00987",
-      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/ccddec4e3b46.html",
+      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/037b64e07698.html",
       "year": 2019,
       "make": "Ford",
       "model": "Explorer",
       "condition": "used",
-      "price": 25995.0,
+      "price": 25695.0,
       "price_currency": "CAD"
     },
     {
@@ -149,14 +83,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 RAM 1500 Classic Crew Cab Express  | 4WD | CREW CAB | SUB ZERO PACKAGE |",
-      "vin": "1C6RR7KT8KS681763",
-      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/4ae734f21e05.html",
-      "year": 2019,
-      "make": "RAM",
-      "model": "1500 Classic",
+      "name": "2020 Hyundai Elantra Preferred w/Sun & Safety Package",
+      "vin": "KMHD84LF5LU898556",
+      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/dcd42eb32d7b.html",
+      "year": 2020,
+      "make": "Hyundai",
+      "model": "Elantra",
       "condition": "used",
-      "price": 27495.0,
+      "price": 16995.0,
       "price_currency": "CAD"
     },
     {
@@ -171,6 +105,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2020 Hyundai Santa Fe Preferred",
+      "vin": "5NMS3CAD5LH137166",
+      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/512970d22925.html",
+      "year": 2020,
+      "make": "Hyundai",
+      "model": "Santa Fe",
+      "condition": "used",
+      "price": 21995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2020 Jeep Wrangler Black and Tan 4X4 | HERITAGE TAN LEATHER | THREE-PIECE HARDTOP |",
       "vin": "1C4HJXDG9LW131882",
       "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/334962665b69.html",
@@ -179,39 +124,6 @@
       "model": "Wrangler",
       "condition": "used",
       "price": 28995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Kia Niro Plug-In Hybrid SX TOURING | PHEV EFFICIENCY | LEATHER | LOW KILOMETERS |",
-      "vin": "KNDCC3LD2L5373505",
-      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/2ca5e217afe4.html",
-      "year": 2020,
-      "make": "Kia",
-      "model": "Niro Plug-In Hybrid",
-      "condition": "used",
-      "price": 23995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 RAM 1500 Classic Quad Cab Express | 5.7L HEMI V8 | 4X4 | QUAD CAB |",
-      "vin": "1C6RR7FG9LS112970",
-      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/dc1c773461c8.html",
-      "year": 2020,
-      "make": "RAM",
-      "model": "1500 Classic",
-      "condition": "used",
-      "price": 26995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Subaru WRX STI STI  | 2.5L TURBOCHARGED BOXER ENGINE | 6-SPEED MANUAL TRANS",
-      "vin": "JF1VA2Y67L9817978",
-      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/259ac1015cf3.html",
-      "year": 2020,
-      "make": "Subaru",
-      "model": "WRX",
-      "condition": "used",
-      "price": 32495.0,
       "price_currency": "CAD"
     },
     {
@@ -234,17 +146,6 @@
       "model": "Sierra 1500",
       "condition": "used",
       "price": 38995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Hyundai Elantra Preferred | BACK-UP CAMERA | 8-INCH TOUCHSCREEN | HEATED FRONT SEATS |",
-      "vin": "KMHLM4AG3MU106022",
-      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/427cb6c700b1.html",
-      "year": 2021,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "used",
-      "price": 17995.0,
       "price_currency": "CAD"
     },
     {
@@ -292,50 +193,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Toyota Tacoma TRD PREMIUM | TRD LIFT | TRD EXHAUST | SUNROOF|",
-      "vin": "5TFDZ5BN0MX064663",
-      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/b6b4bdc95eb6.html",
-      "year": 2021,
-      "make": "Toyota",
-      "model": "Tacoma",
-      "condition": "used",
-      "price": 49995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Chevrolet Blazer True North | NO ACCIDENTS | HEATED SEATS |",
-      "vin": "3GNKBJRS2NS140796",
-      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/6c5b863cf6ad.html",
-      "year": 2022,
-      "make": "Chevrolet",
-      "model": "Blazer",
-      "condition": "used",
-      "price": 23495.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Dodge Durango R/T | NO ACCIDENTS | BC VEHICLE |",
-      "vin": "1C4SDJCT8NC189432",
-      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/67ee7c6c1796.html",
-      "year": 2022,
-      "make": "Dodge",
-      "model": "Durango",
-      "condition": "used",
-      "price": 39995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Ford Escape Titanium  NAVIGATION | BACK-UP CAMERA | B&O PREMIUM AUDIO |",
-      "vin": "1FMCU9J94NUA55193",
-      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/e3449b2f1c20.html",
-      "year": 2022,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "used",
-      "price": 25395.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 Honda Pilot Black Edition | BLACKED-OUT STYLING | APPLE CARPLAY | REAR ENTERTAINMENT |",
       "vin": "5FNYF6H06NB500181",
       "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/0791cbbd4ba4.html",
@@ -347,36 +204,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Hyundai Kona Preferred | LOW KILOMETERS | ALL-WHEEL DRIVE | HEATED SEATS |",
-      "vin": "KM8K2CAB8NU915114",
-      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/16622c7bc847.html",
+      "name": "2022 Hyundai Palisade Luxury",
+      "vin": "KM8R3DHE2NU453988",
+      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/552c31e82003.html",
       "year": 2022,
       "make": "Hyundai",
-      "model": "Kona",
+      "model": "Palisade",
       "condition": "used",
-      "price": 23995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Hyundai Santa Fe Preferred | ALL-WHEEL DRIVE | HEATED SEATS & STEERING WHEEL |",
-      "vin": "5NMS3DAJ9NH451627",
-      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/8f0611570aaa.html",
-      "year": 2022,
-      "make": "Hyundai",
-      "model": "Santa Fe",
-      "condition": "used",
-      "price": 27895.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Volvo S60 S60| NAVIGATION | BACK-UP CAMERA | POWER MOONROOF |",
-      "vin": "7JRL12TZ0NG187210",
-      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/e559aa00dd69.html",
-      "year": 2022,
-      "make": "Volvo",
-      "model": "S60",
-      "condition": "used",
-      "price": 31395.0,
+      "price": 33995.0,
       "price_currency": "CAD"
     },
     {
@@ -398,7 +233,7 @@
       "make": "Chevrolet",
       "model": "Colorado",
       "condition": "used",
-      "price": 43295.0,
+      "price": 42995.0,
       "price_currency": "CAD"
     },
     {
@@ -431,18 +266,7 @@
       "make": "Hyundai",
       "model": "Kona Electric",
       "condition": "used",
-      "price": 32995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Hyundai Palisade Ultimate Calligraphy  | AWD | LUXURY 7-PASSENGER | NAPPA LEATHER | HEAD-UP DISPLAY |",
-      "vin": "KM8R5DGE9PU557702",
-      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/5ba716804924.html",
-      "year": 2023,
-      "make": "Hyundai",
-      "model": "Palisade",
-      "condition": "used",
-      "price": 45995.0,
+      "price": 31995.0,
       "price_currency": "CAD"
     },
     {
@@ -453,18 +277,7 @@
       "make": "Jeep",
       "model": "Compass",
       "condition": "used",
-      "price": 27695.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Kia Sportage LX | BC VEHICLE | LEATHER SEATS |",
-      "vin": "KNDPUCAF6P7076721",
-      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/5dbf36294fdf.html",
-      "year": 2023,
-      "make": "Kia",
-      "model": "Sportage",
-      "condition": "used",
-      "price": 26495.0,
+      "price": 25995.0,
       "price_currency": "CAD"
     },
     {
@@ -475,7 +288,7 @@
       "make": "Nissan",
       "model": "Maxima",
       "condition": "used",
-      "price": 26995.0,
+      "price": 24995.0,
       "price_currency": "CAD"
     },
     {
@@ -508,18 +321,7 @@
       "make": "Chevrolet",
       "model": "Colorado",
       "condition": "used",
-      "price": 44495.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Chevrolet Silverado 1500 RST | 4WD | 6-INCH LIFT KIT | STREET-SMART RST STYLING |",
-      "vin": "1GCUDEEL1RZ328218",
-      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/62f99ddc74ce.html",
-      "year": 2024,
-      "make": "Chevrolet",
-      "model": "Silverado 1500",
-      "condition": "used",
-      "price": 58995.0,
+      "price": 43995.0,
       "price_currency": "CAD"
     },
     {
@@ -529,6 +331,17 @@
       "year": 2024,
       "make": "Chrysler",
       "model": "Pacifica",
+      "condition": "used",
+      "price": 36995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Hyundai Tucson Hybrid Ultimate",
+      "vin": "KM8JCCD19RU222716",
+      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/486bdf8ad3a0.html",
+      "year": 2024,
+      "make": "Hyundai",
+      "model": "Tucson Hybrid",
       "condition": "used",
       "price": 37995.0,
       "price_currency": "CAD"
@@ -541,7 +354,7 @@
       "make": "Jeep",
       "model": "Grand Cherokee",
       "condition": "used",
-      "price": 38495.0,
+      "price": 35995.0,
       "price_currency": "CAD"
     },
     {
@@ -552,7 +365,7 @@
       "make": "Jeep",
       "model": "Wrangler",
       "condition": "used",
-      "price": 47895.0,
+      "price": 45595.0,
       "price_currency": "CAD"
     },
     {
@@ -563,7 +376,7 @@
       "make": "Kia",
       "model": "Seltos",
       "condition": "used",
-      "price": 33895.0,
+      "price": 32995.0,
       "price_currency": "CAD"
     },
     {
@@ -607,18 +420,7 @@
       "make": "Audi",
       "model": "Q3",
       "condition": "used",
-      "price": 35994.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Chevrolet Traverse LT | NO ACCIDENTS | HEATED STEERING WHEEL |",
-      "vin": "1GNEVGRS2SJ165427",
-      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/ff31694f30a3.html",
-      "year": 2025,
-      "make": "Chevrolet",
-      "model": "Traverse",
-      "condition": "used",
-      "price": 48495.0,
+      "price": 35695.0,
       "price_currency": "CAD"
     },
     {
@@ -633,6 +435,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2025 Hyundai Kona Electric Preferred w/Trend Package | ADAPTIVE CRUISE CONTROL | PANORAMIC SUNROOF |",
+      "vin": "KM8HD3A64SU020660",
+      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/cd01c2c193bd.html",
+      "year": 2025,
+      "make": "Hyundai",
+      "model": "Kona Electric",
+      "condition": "used",
+      "price": 44995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Hyundai Kona Preferred",
+      "vin": "KM8HCCABXSU319506",
+      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/2a4dcca69485.html",
+      "year": 2025,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "used",
+      "price": 28995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2025 Hyundai Santa Fe Luxury  | PANORAMIC CURVED DISPLAY | BOSE® AUDIO |",
       "vin": "5NMP4DGL1SH134500",
       "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/c8fab94086cb.html",
@@ -640,11 +464,11 @@
       "make": "Hyundai",
       "model": "Santa Fe",
       "condition": "used",
-      "price": 45995.0,
+      "price": 44995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Hyundai Santa Fe XRT",
+      "name": "2025 Hyundai Santa Fe XRT | HTRAC AWD |2.5L TURBO ENGINE| APPLE CARPLAY",
       "vin": "5NMP3DGL0SH112846",
       "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/a3cfb1481969.html",
       "year": 2025,
@@ -669,17 +493,6 @@
       "name": "2025 Hyundai Tucson Preferred AWD w/Trend Pkg  | LEATHER SEATS | SUNROOF |",
       "vin": "KM8JCCDE1SU426810",
       "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/6786099461c2.html",
-      "year": 2025,
-      "make": "Hyundai",
-      "model": "Tucson",
-      "condition": "used",
-      "price": 35995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Hyundai Tucson Preferred AWD w/Trend Pkg | LEATHER SEATS | SUNROOF |",
-      "vin": "KM8JCCDE4SU427577",
-      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/11b7597e0fc3.html",
       "year": 2025,
       "make": "Hyundai",
       "model": "Tucson",
@@ -743,17 +556,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Kia Seltos EX | NO ACCIDENTS | BC VEHICLE |",
-      "vin": "KNDEUCAA9S7789648",
-      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/327f63b318b3.html",
-      "year": 2025,
-      "make": "Kia",
-      "model": "Seltos",
-      "condition": "used",
-      "price": 26695.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Kia Sportage EX | NO ACCIDENTS | BC VEHICLE |HEATED SEATS",
       "vin": "KNDPVCDFXS7343960",
       "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/c0cf37dbbc2d.html",
@@ -809,6 +611,39 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Hyundai IONIQ 5 Preferred AWD Long Range w/Ultimate Pkg",
+      "vin": "KM8KRDDC0TU395932",
+      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/a563eac811e7.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "IONIQ 5",
+      "condition": "used",
+      "price": 61995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Kona N Line",
+      "vin": "KM8HACA34TU471619",
+      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/e977b36f2db9.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "used",
+      "price": 39099.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Kona N Line",
+      "vin": "KM8HACA3XTU387384",
+      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/fdcb41b028b3.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "used",
+      "price": 36995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Hyundai Palisade Ultimate Calligraphy",
       "vin": "KM8RMES20TU133616",
       "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/47f86be3c31f.html",
@@ -831,28 +666,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Santa Fe Hybrid Luxury",
-      "vin": "KM8P3DG14TU190941",
-      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/464f1d7400a8.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Santa Fe Hybrid",
-      "condition": "used",
-      "price": 55999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Santa Fe Hybrid Luxury",
-      "vin": "KM8P3DG15TU188972",
-      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/b1d0da156d3e.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Santa Fe Hybrid",
-      "condition": "used",
-      "price": 55999.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Hyundai Tucson Hybrid Ultimate | PANORAMIC ROOF | LEATHER SEATS |",
       "vin": "KM8JCDD19TU423156",
       "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/86181eaaf432.html",
@@ -872,6 +685,17 @@
       "model": "Tucson Hybrid",
       "condition": "used",
       "price": 43699.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Tucson Hybrid N-Line",
+      "vin": "KM8JCDD16TU437855",
+      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/a9f39a10af30.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Tucson Hybrid",
+      "condition": "used",
+      "price": 45949.0,
       "price_currency": "CAD"
     },
     {
