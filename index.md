@@ -1,6 +1,6 @@
 # Penticton Hyundai
 
- dealership in Penticton. AI-readable inventory mirror, about 216 vehicles.
+ dealership in Penticton. AI-readable inventory mirror, about 215 vehicles.
 
 - Official website: https://www.pentictonhyundai.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/

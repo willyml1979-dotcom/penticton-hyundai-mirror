@@ -1,7 +1,7 @@
 {
   "dealership": "Penticton Hyundai",
-  "generated_at": "2026-11-18T11:11:08",
-  "vehicle_count": 216,
+  "generated_at": "2026-11-18T11:22:09",
+  "vehicle_count": 215,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1333,7 +1333,7 @@
       "make": "Hyundai",
       "model": "Sonata Hybrid",
       "condition": "new",
-      "price": 38124.0,
+      "price": 38274.0,
       "price_currency": "CAD"
     },
     {
@@ -1344,7 +1344,7 @@
       "make": "Hyundai",
       "model": "Sonata Hybrid",
       "condition": "new",
-      "price": 38374.0,
+      "price": 38524.0,
       "price_currency": "CAD"
     },
     {
@@ -1355,7 +1355,7 @@
       "make": "Hyundai",
       "model": "Sonata Hybrid",
       "condition": "new",
-      "price": 38599.0,
+      "price": 38749.0,
       "price_currency": "CAD"
     },
     {
@@ -1366,7 +1366,7 @@
       "make": "Hyundai",
       "model": "Tucson Hybrid",
       "condition": "new",
-      "price": 50049.0,
+      "price": 50199.0,
       "price_currency": "CAD"
     },
     {
@@ -1377,7 +1377,7 @@
       "make": "Hyundai",
       "model": "Tucson Hybrid",
       "condition": "new",
-      "price": 50049.0,
+      "price": 50199.0,
       "price_currency": "CAD"
     },
     {
@@ -1388,7 +1388,7 @@
       "make": "Hyundai",
       "model": "Tucson Hybrid",
       "condition": "new",
-      "price": 50049.0,
+      "price": 50199.0,
       "price_currency": "CAD"
     },
     {
@@ -1399,7 +1399,7 @@
       "make": "Hyundai",
       "model": "Tucson Hybrid",
       "condition": "new",
-      "price": 50049.0,
+      "price": 50199.0,
       "price_currency": "CAD"
     },
     {
@@ -1410,7 +1410,7 @@
       "make": "Hyundai",
       "model": "Tucson Hybrid",
       "condition": "new",
-      "price": 46049.0,
+      "price": 46199.0,
       "price_currency": "CAD"
     },
     {
@@ -1421,7 +1421,7 @@
       "make": "Hyundai",
       "model": "Tucson Hybrid",
       "condition": "new",
-      "price": 50049.0,
+      "price": 50199.0,
       "price_currency": "CAD"
     },
     {
@@ -1432,7 +1432,7 @@
       "make": "Hyundai",
       "model": "Tucson Hybrid",
       "condition": "new",
-      "price": 50049.0,
+      "price": 50199.0,
       "price_currency": "CAD"
     },
     {
@@ -1443,7 +1443,7 @@
       "make": "Hyundai",
       "model": "Tucson Hybrid",
       "condition": "new",
-      "price": 50049.0,
+      "price": 50199.0,
       "price_currency": "CAD"
     },
     {
@@ -1454,7 +1454,7 @@
       "make": "Hyundai",
       "model": "Tucson Hybrid",
       "condition": "new",
-      "price": 50049.0,
+      "price": 50199.0,
       "price_currency": "CAD"
     },
     {
@@ -1465,7 +1465,7 @@
       "make": "Hyundai",
       "model": "Tucson Hybrid",
       "condition": "new",
-      "price": 45799.0,
+      "price": 45949.0,
       "price_currency": "CAD"
     },
     {
@@ -1532,17 +1532,6 @@
       "model": "Tucson Hybrid",
       "condition": "new",
       "price": 50449.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Tucson Plug-In Hybrid Ultimate",
-      "vin": "KM8JDDD22TU547467",
-      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/new/b30e868ca4b1.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson Plug-In Hybrid",
-      "condition": "new",
-      "price": 55599.0,
       "price_currency": "CAD"
     },
     {
