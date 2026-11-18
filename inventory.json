@@ -1,6 +1,6 @@
 {
   "dealership": "Penticton Hyundai",
-  "generated_at": "2026-11-18T02:17:32",
+  "generated_at": "2026-11-18T02:35:33",
   "vehicle_count": 216,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -1157,7 +1157,7 @@
       "make": "Hyundai",
       "model": "Palisade",
       "condition": "new",
-      "price": 64799.0,
+      "price": 64949.0,
       "price_currency": "CAD"
     },
     {
@@ -1190,7 +1190,7 @@
       "make": "Hyundai",
       "model": "Palisade",
       "condition": "new",
-      "price": 64799.0,
+      "price": 64949.0,
       "price_currency": "CAD"
     },
     {
@@ -1201,7 +1201,7 @@
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
       "condition": "new",
-      "price": 55599.0,
+      "price": 55749.0,
       "price_currency": "CAD"
     },
     {
@@ -1212,7 +1212,7 @@
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
       "condition": "new",
-      "price": 59199.0,
+      "price": 59349.0,
       "price_currency": "CAD"
     },
     {
@@ -1223,7 +1223,7 @@
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
       "condition": "new",
-      "price": 50299.0,
+      "price": 50449.0,
       "price_currency": "CAD"
     },
     {
@@ -1234,7 +1234,7 @@
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
       "condition": "new",
-      "price": 49849.0,
+      "price": 49999.0,
       "price_currency": "CAD"
     },
     {
@@ -1245,7 +1245,7 @@
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
       "condition": "new",
-      "price": 59199.0,
+      "price": 59349.0,
       "price_currency": "CAD"
     },
     {
@@ -1256,7 +1256,7 @@
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
       "condition": "new",
-      "price": 60449.0,
+      "price": 60599.0,
       "price_currency": "CAD"
     },
     {
@@ -1267,7 +1267,7 @@
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
       "condition": "new",
-      "price": 45849.0,
+      "price": 45999.0,
       "price_currency": "CAD"
     },
     {
@@ -1278,7 +1278,7 @@
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
       "condition": "new",
-      "price": 59199.0,
+      "price": 59349.0,
       "price_currency": "CAD"
     },
     {
@@ -1289,7 +1289,7 @@
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
       "condition": "new",
-      "price": 47649.0,
+      "price": 47799.0,
       "price_currency": "CAD"
     },
     {
@@ -1300,7 +1300,7 @@
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
       "condition": "new",
-      "price": 50399.0,
+      "price": 50549.0,
       "price_currency": "CAD"
     },
     {
@@ -1311,7 +1311,7 @@
       "make": "Hyundai",
       "model": "Sonata Hybrid",
       "condition": "new",
-      "price": 38374.0,
+      "price": 38524.0,
       "price_currency": "CAD"
     },
     {
@@ -1322,7 +1322,7 @@
       "make": "Hyundai",
       "model": "Sonata Hybrid",
       "condition": "new",
-      "price": 38374.0,
+      "price": 38524.0,
       "price_currency": "CAD"
     },
     {
