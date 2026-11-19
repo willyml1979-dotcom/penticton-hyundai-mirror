@@ -1,7 +1,7 @@
 {
   "dealership": "Penticton Hyundai",
-  "generated_at": "2026-11-18T11:22:09",
-  "vehicle_count": 215,
+  "generated_at": "2026-11-18T21:40:42",
+  "vehicle_count": 216,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -50,14 +50,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Porsche Macan GTS GTS  | WINTER TIRES ON PORSCHE RIMS INCLUDED | PDK | SPORT EXHAUST",
+      "name": "2018 Porsche Macan GTS  | WINTER TIRES ON PORSCHE RIMS INCLUDED | PDK | SPORT EXHAUST",
       "vin": "WP1AG2A59JLB64836",
-      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/975afc4af640.html",
+      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/0feac42e6c68.html",
       "year": 2018,
       "make": "Porsche",
       "model": "Macan",
       "condition": "used",
-      "price": 44895.0,
+      "price": 42995.0,
       "price_currency": "CAD"
     },
     {
@@ -91,6 +91,17 @@
       "model": "Rogue",
       "condition": "used",
       "price": 18595.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2019 Toyota Corolla Hatchback ",
+      "vin": "JTNK4RBE1K3008292",
+      "url": "https://willyml1979-dotcom.github.io/penticton-hyundai-mirror/used/b085dfe19a7e.html",
+      "year": 2019,
+      "make": "Toyota",
+      "model": "Corolla Hatchback",
+      "condition": "used",
+      "price": 18995.0,
       "price_currency": "CAD"
     },
     {
@@ -189,7 +200,7 @@
       "make": "Tesla",
       "model": "Model Y",
       "condition": "used",
-      "price": 38995.0,
+      "price": 38495.0,
       "price_currency": "CAD"
     },
     {
@@ -200,7 +211,7 @@
       "make": "Toyota",
       "model": "RAV4",
       "condition": "used",
-      "price": 35995.0,
+      "price": 34495.0,
       "price_currency": "CAD"
     },
     {
@@ -673,7 +684,7 @@
       "make": "Hyundai",
       "model": "Kona",
       "condition": "used",
-      "price": 36995.0,
+      "price": 36495.0,
       "price_currency": "CAD"
     },
     {
